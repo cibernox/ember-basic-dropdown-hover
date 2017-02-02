@@ -1,9 +1,12 @@
 {
   "name": "ember-basic-dropdown-hover",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Variation of ember-basic-dropdown designed to open on hover",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "dropdown",
+    "hover",
+    "basic-dropdown-addon"
   ],
   "license": "MIT",
   "author": "",
