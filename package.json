@@ -1,7 +1,7 @@
 {
   "name": "ember-basic-dropdown-hover",
   "version": "0.1.0",
-  "description": "Variation of ember-basic-dropdown designed to open on hover",
+  "description": "Variation of ember-basic-dropdown that opens on hover",
   "keywords": [
     "ember-addon",
     "dropdown",
