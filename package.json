@@ -1,6 +1,6 @@
 {
   "name": "ember-basic-dropdown-hover",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Variation of ember-basic-dropdown that opens on hover",
   "keywords": [
     "ember-addon",
@@ -21,9 +21,9 @@
     "test": "ember try:each"
   },
   "dependencies": {
-    "ember-assign-helper": "0.1.1",
-    "ember-basic-dropdown": "^0.33.5",
-    "ember-cli-babel": "^6.11.0",
+    "ember-assign-helper": "^0.1.2",
+    "ember-basic-dropdown": "^1.0.0-beta.3",
+    "ember-cli-babel": "^6.12.0",
     "ember-cli-htmlbars": "^2.0.3"
   },
   "devDependencies": {
