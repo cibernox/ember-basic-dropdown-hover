@@ -1,11 +1,7 @@
-import Ember from 'ember';
+import Component from '@ember/component';
+import { cancel, later } from '@ember/runloop';
+import { oneWay } from '@ember/object/computed';
 import layout from '../templates/components/basic-dropdown-hover';
-
-const {
-  Component,
-  run: { later, cancel },
-  computed: { oneWay }
-} = Ember;
 
 export default Component.extend({
   layout,
